@@ -4,3 +4,6 @@
  
  Nutz作者写的手册，中文版 ： http://nutzam.github.io/nutz/
  
+连sqlite
+driverClass=org.sqlite.JDBC
+url=jdbc:sqlite:db/orderman.db
