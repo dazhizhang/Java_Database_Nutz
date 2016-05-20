@@ -7,3 +7,6 @@
 连sqlite
 driverClass=org.sqlite.JDBC
 url=jdbc:sqlite:db/orderman.db
+
+
+数据库连接池com.amzass.database.DBUtils.connPool
