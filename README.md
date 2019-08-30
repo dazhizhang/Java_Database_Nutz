@@ -11,5 +11,5 @@ url=jdbc:sqlite:db/orderman.db
 
 数据库连接池com.amzass.database.DBUtils.connPool
 
-更加简单易懂的手册：
+这个字体好像大一点：
 https://nutzam.com/core/dao/hello.html
