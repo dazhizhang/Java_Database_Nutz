@@ -10,3 +10,6 @@ url=jdbc:sqlite:db/orderman.db
 
 
 数据库连接池com.amzass.database.DBUtils.connPool
+
+更加简单易懂的手册：
+https://nutzam.com/core/dao/hello.html
